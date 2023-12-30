@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+* {
+  font-family: "Open Sans", sans-serif;
+}
+body {
+  background-color: aliceblue;
+  transition: 0.5s;
+}
+#bgChange-btn {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+#bgChange-btn:hover {
+  transition: 0.5s;
+}

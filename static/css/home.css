@@ -1,0 +1,19 @@
+* {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+body {
+  background-color: aliceblue;
+  transition: 0.5s;
+}
+#bgChange-btn {
+  background-color: #000000;
+  color: #ffffff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+#bgChange-btn:hover {
+  transition: 0.5s;
+}

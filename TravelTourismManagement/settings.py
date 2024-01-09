@@ -49,7 +49,7 @@ WSGI_APPLICATION = 'TravelTourismManagement.wsgi.application'
 DATABASES = {
    'default': {
       'ENGINE': 'django.db.backends.postgresql',
-       'NAME': 'pfsd',
+       'NAME': 'ttm',
        'USER':'gowtham',
        'PASSWORD':'gowtham',
        'HOST':'localhost',
